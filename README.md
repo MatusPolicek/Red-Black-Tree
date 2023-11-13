@@ -1,4 +1,4 @@
-# Red-Black Tree Implementation in Java
+# Red-Black Tree Implementation
 
 This Java code provides a concise implementation of a Red-Black tree, a self-balancing binary search tree known for its efficiency in search, insertion, and deletion operations.
 
